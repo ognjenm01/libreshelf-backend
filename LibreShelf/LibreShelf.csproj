@@ -11,6 +11,7 @@
     <Folder Include="Service\" />
     <Folder Include="Storage\DBStorage\" />
     <Folder Include="Storage\FileStorage\" />
+    <Folder Include="Util\" />
     <Folder Include="View\" />
   </ItemGroup>
 
